@@ -1,4 +1,4 @@
-# H24051045_-_FDA_HW1
+# H24051045_張瑜倢_FDA_HW1
 The dataset in Part 2 is about "suicide-rates-overview-1985-to-2016"
 Main goal is to compare socio-economic info with suicide rates by year and country
 
